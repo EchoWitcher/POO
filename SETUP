@@ -1,2 +1,18 @@
 Pasos para instalar el ambiente de desarrollo para aplicaciones de consola en C#.
 
+PASO1:) Instalacion de Microsoft .NET Core SDK 2.2.202
+https://tydw.files.wordpress.com/2019/04/01.png
+
+PASO2: Microsft .NET Core 1.0.0 VS 2015 Tooling Preview 2
+https://tydw.files.wordpress.com/2019/04/05.png
+
+PASO 3) creado un proyecto Web APi con NET CORE en Visual Studio 2015]
+https://tydw.files.wordpress.com/2019/04/09.png
+
+PASO 4) Corregir Errores de Referencias con Nuget (Package Restore Failed)
+https://tydw.files.wordpress.com/2019/04/13.png
+
+PASO 5)Agregar “dotnet-core” con el link #https://dotnet.myget.org/F/dotnet-core/api/v3/index.json#
+https://tydw.files.wordpress.com/2019/04/15.png
+
+
