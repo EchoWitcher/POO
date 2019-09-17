@@ -1,14 +1,11 @@
 # POO
  Curso de POO del tec
 
- # Pio 
+ # Nombre 
+ Enrique Aleman Ureta
 
- piopio
-
- ## pio pio
-
- dos pios
-
- ### tres pios
-
- y si tres pios
+ ## No.Control
+ 18210450
+ 
+ ### Carrera
+Ing. en Sistemas Computacionales
