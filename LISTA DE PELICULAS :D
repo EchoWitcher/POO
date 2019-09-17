@@ -1,0 +1,22 @@
+##LISTA DE PELICULAS
+using System;
+using System.Collections.Generic;
+namespace listapeliculas :D
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<string> lista = new List<string>();
+            lista.Add("Atlantis");
+            lista.Add("Caldero Magico");
+            lista.Add("Planeta del Tesoro");
+            lista.Add("Mama soy un pez");
+            lista.Add("Nerve");
+
+            foreach(string peliculas in lista)
+            Console.WriteLine(peliculas);
+            
+        }
+    }
+}
