@@ -48,4 +48,22 @@ https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/debu
 
 ##Instalación de git. conectado a tu cuenta de GitHub y VSC
 
+paso1:Para empezar, entra a la página de Git, darle click al botón de Downloads for Windows.
+https://miro.medium.com/max/1920/1*PPHX_iRgCFknW6AOMPGsOw.png
 
+paso2:Una vez descargada, dale click al archivo con el formato Git-version.exe.
+Al inicio preguntará por permisos para ejecutar el instalador, a lo cual debemos responder que sí.
+https://miro.medium.com/max/740/1*k4o9_OMmScXTL9h15Rb5SQ.png
+
+paso3:Como muchos de los instaladores en Windows, debemos de aceptar las opciones por defecto 
+y darle Next (siguiente) a todo hasta que nos salga el botón de instalar.
+https://miro.medium.com/max/743/1*COpNZF0GQsMNZwPpScuMYA.png
+
+paso4:Una vez terminada la configuración del instalador de Git, comenzará a instalar 
+todos los archivos necesarios en la carpeta indicada al inicio.
+https://miro.medium.com/max/743/1*XYMyRItzk_HQVSoeFXmLkw.png
+
+paso5:Y ésta será la terminal que usaremos para ingresar comandos Unix y de Git sobre todo:
+https://miro.medium.com/max/1743/1*bBBa0SA-rGayFEncu-OrUQ.png
+
+paso6: BUSCA OTRA CARRERA
