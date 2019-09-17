@@ -17,4 +17,35 @@ https://tydw.files.wordpress.com/2019/04/15.png
 
 ##Instalando Visual Studio Code
 
+PASO1)lo primero que tenemos que hacer para poder usar .NET Core con Visual Studio Code, es instalar
+.NET Core para nuestra plataforma. Para ello descargaremos desde su página de descargas los binarios
+del SDK (Kit de Desarrollo de Software, en inglés: Software Development Kit) para nuestro sistema operativo.
+https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/DescargarVSC.png
+
+PASO2)Instalando las extensiones necesariasPara poder desarrollar todo su potencial, Visual Studio Code utiliza un sistema de 
+extensiones que nos permiten ampliar su funcionalidad. Estas extensiones se pueden descargar desde el propio entorno o
+desde el Extension Marketplace (aunque esto realmente, lo que va a hacer es abrir el IDE y llevarnos a la extensión).
+https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/BotonInstall.png
+
+PASO3)Esto nos abre Visual Studio Code, y nos muestra directamente la extensión, aquí basta con pulsar sobre el botón Install para que se inicie el proceso:
+https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/BotonInstallVSC.png
+
+PASO4)Creando una aplicación de consola .NET Core en Visual Studio Code
+Lo primero que vamos a necesitar es crear una carpeta en la que queramos que esté el proyecto.
+Una vez que la tengamos vamos a abrir en Visual Studio Code la carpeta que acabamos de crear, utilizando el menú File·Open Folder
+o con el acceso directo Ctrl+K,Ctrl+O (son dos combinaciones de teclas, una después de la otra):
+https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/openfolder.png
+
+PASO5)Con lo que hemos hecho podríamos modificar el código y ejecutarlo con los cambios,
+pero aún nos falta una parte importante: poder depurarlo, como lo haríamos en Visual Studio. 
+Para eso tenemos que añadir algunos ficheros JSON mediante el asistente para que así se configuren correctamente también.
+Vete al menú View·Command Palette o usa el acceso directo Ctrl+Shift+P:
+https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/palette.png
+
+PASO6)y pulsando la tecla F9.Si ahora ejecutamos el proyecto (pulsando F5) podemos ver que, efectivamente, 
+el punto de interrupción se aplica y la ejecución se detiene ahí, permitiéndonos depurar el proyecto:
+https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/debug.png
+
+##Instalación de git. conectado a tu cuenta de GitHub y VSC
+
 
