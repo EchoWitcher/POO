@@ -1,0 +1,11 @@
+C:\Users\256hp\Documents\EXPROPIATE\Practica-Pizarron\bin\Debug\netcoreapp2.2\Practica-Pizarron.deps.json
+C:\Users\256hp\Documents\EXPROPIATE\Practica-Pizarron\bin\Debug\netcoreapp2.2\Practica-Pizarron.runtimeconfig.json
+C:\Users\256hp\Documents\EXPROPIATE\Practica-Pizarron\bin\Debug\netcoreapp2.2\Practica-Pizarron.runtimeconfig.dev.json
+C:\Users\256hp\Documents\EXPROPIATE\Practica-Pizarron\bin\Debug\netcoreapp2.2\Practica-Pizarron.dll
+C:\Users\256hp\Documents\EXPROPIATE\Practica-Pizarron\bin\Debug\netcoreapp2.2\Practica-Pizarron.pdb
+C:\Users\256hp\Documents\EXPROPIATE\Practica-Pizarron\obj\Debug\netcoreapp2.2\Practica-Pizarron.csprojAssemblyReference.cache
+C:\Users\256hp\Documents\EXPROPIATE\Practica-Pizarron\obj\Debug\netcoreapp2.2\Practica-Pizarron.csproj.CoreCompileInputs.cache
+C:\Users\256hp\Documents\EXPROPIATE\Practica-Pizarron\obj\Debug\netcoreapp2.2\Practica-Pizarron.AssemblyInfoInputs.cache
+C:\Users\256hp\Documents\EXPROPIATE\Practica-Pizarron\obj\Debug\netcoreapp2.2\Practica-Pizarron.AssemblyInfo.cs
+C:\Users\256hp\Documents\EXPROPIATE\Practica-Pizarron\obj\Debug\netcoreapp2.2\Practica-Pizarron.dll
+C:\Users\256hp\Documents\EXPROPIATE\Practica-Pizarron\obj\Debug\netcoreapp2.2\Practica-Pizarron.pdb
