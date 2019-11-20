@@ -1,0 +1,11 @@
+C:\Users\256hp\Documents\EXPROPIATE\Duracion\bin\Debug\netcoreapp2.2\Duracion.deps.json
+C:\Users\256hp\Documents\EXPROPIATE\Duracion\bin\Debug\netcoreapp2.2\Duracion.runtimeconfig.json
+C:\Users\256hp\Documents\EXPROPIATE\Duracion\bin\Debug\netcoreapp2.2\Duracion.runtimeconfig.dev.json
+C:\Users\256hp\Documents\EXPROPIATE\Duracion\bin\Debug\netcoreapp2.2\Duracion.dll
+C:\Users\256hp\Documents\EXPROPIATE\Duracion\bin\Debug\netcoreapp2.2\Duracion.pdb
+C:\Users\256hp\Documents\EXPROPIATE\Duracion\obj\Debug\netcoreapp2.2\Duracion.csprojAssemblyReference.cache
+C:\Users\256hp\Documents\EXPROPIATE\Duracion\obj\Debug\netcoreapp2.2\Duracion.csproj.CoreCompileInputs.cache
+C:\Users\256hp\Documents\EXPROPIATE\Duracion\obj\Debug\netcoreapp2.2\Duracion.AssemblyInfoInputs.cache
+C:\Users\256hp\Documents\EXPROPIATE\Duracion\obj\Debug\netcoreapp2.2\Duracion.AssemblyInfo.cs
+C:\Users\256hp\Documents\EXPROPIATE\Duracion\obj\Debug\netcoreapp2.2\Duracion.dll
+C:\Users\256hp\Documents\EXPROPIATE\Duracion\obj\Debug\netcoreapp2.2\Duracion.pdb
