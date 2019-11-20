@@ -1,0 +1,11 @@
+C:\Users\256hp\Documents\EXPROPIATE\Dominoes\bin\Debug\netcoreapp2.2\Dominoes.deps.json
+C:\Users\256hp\Documents\EXPROPIATE\Dominoes\bin\Debug\netcoreapp2.2\Dominoes.runtimeconfig.json
+C:\Users\256hp\Documents\EXPROPIATE\Dominoes\bin\Debug\netcoreapp2.2\Dominoes.runtimeconfig.dev.json
+C:\Users\256hp\Documents\EXPROPIATE\Dominoes\bin\Debug\netcoreapp2.2\Dominoes.dll
+C:\Users\256hp\Documents\EXPROPIATE\Dominoes\bin\Debug\netcoreapp2.2\Dominoes.pdb
+C:\Users\256hp\Documents\EXPROPIATE\Dominoes\obj\Debug\netcoreapp2.2\Dominoes.csprojAssemblyReference.cache
+C:\Users\256hp\Documents\EXPROPIATE\Dominoes\obj\Debug\netcoreapp2.2\Dominoes.csproj.CoreCompileInputs.cache
+C:\Users\256hp\Documents\EXPROPIATE\Dominoes\obj\Debug\netcoreapp2.2\Dominoes.AssemblyInfoInputs.cache
+C:\Users\256hp\Documents\EXPROPIATE\Dominoes\obj\Debug\netcoreapp2.2\Dominoes.AssemblyInfo.cs
+C:\Users\256hp\Documents\EXPROPIATE\Dominoes\obj\Debug\netcoreapp2.2\Dominoes.dll
+C:\Users\256hp\Documents\EXPROPIATE\Dominoes\obj\Debug\netcoreapp2.2\Dominoes.pdb
