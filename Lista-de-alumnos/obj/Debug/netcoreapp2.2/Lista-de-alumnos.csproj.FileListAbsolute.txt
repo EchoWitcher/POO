@@ -1,0 +1,11 @@
+C:\Users\256hp\Documents\EXPROPIATE\Lista-de-alumnos\bin\Debug\netcoreapp2.2\Lista-de-alumnos.deps.json
+C:\Users\256hp\Documents\EXPROPIATE\Lista-de-alumnos\bin\Debug\netcoreapp2.2\Lista-de-alumnos.runtimeconfig.json
+C:\Users\256hp\Documents\EXPROPIATE\Lista-de-alumnos\bin\Debug\netcoreapp2.2\Lista-de-alumnos.runtimeconfig.dev.json
+C:\Users\256hp\Documents\EXPROPIATE\Lista-de-alumnos\bin\Debug\netcoreapp2.2\Lista-de-alumnos.dll
+C:\Users\256hp\Documents\EXPROPIATE\Lista-de-alumnos\bin\Debug\netcoreapp2.2\Lista-de-alumnos.pdb
+C:\Users\256hp\Documents\EXPROPIATE\Lista-de-alumnos\obj\Debug\netcoreapp2.2\Lista-de-alumnos.csprojAssemblyReference.cache
+C:\Users\256hp\Documents\EXPROPIATE\Lista-de-alumnos\obj\Debug\netcoreapp2.2\Lista-de-alumnos.csproj.CoreCompileInputs.cache
+C:\Users\256hp\Documents\EXPROPIATE\Lista-de-alumnos\obj\Debug\netcoreapp2.2\Lista-de-alumnos.AssemblyInfoInputs.cache
+C:\Users\256hp\Documents\EXPROPIATE\Lista-de-alumnos\obj\Debug\netcoreapp2.2\Lista-de-alumnos.AssemblyInfo.cs
+C:\Users\256hp\Documents\EXPROPIATE\Lista-de-alumnos\obj\Debug\netcoreapp2.2\Lista-de-alumnos.dll
+C:\Users\256hp\Documents\EXPROPIATE\Lista-de-alumnos\obj\Debug\netcoreapp2.2\Lista-de-alumnos.pdb
