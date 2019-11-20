@@ -1,0 +1,11 @@
+C:\Users\256hp\Documents\EXPROPIATE\Faceclon\bin\Debug\netcoreapp2.2\Faceclon.deps.json
+C:\Users\256hp\Documents\EXPROPIATE\Faceclon\bin\Debug\netcoreapp2.2\Faceclon.runtimeconfig.json
+C:\Users\256hp\Documents\EXPROPIATE\Faceclon\bin\Debug\netcoreapp2.2\Faceclon.runtimeconfig.dev.json
+C:\Users\256hp\Documents\EXPROPIATE\Faceclon\bin\Debug\netcoreapp2.2\Faceclon.dll
+C:\Users\256hp\Documents\EXPROPIATE\Faceclon\bin\Debug\netcoreapp2.2\Faceclon.pdb
+C:\Users\256hp\Documents\EXPROPIATE\Faceclon\obj\Debug\netcoreapp2.2\Faceclon.csprojAssemblyReference.cache
+C:\Users\256hp\Documents\EXPROPIATE\Faceclon\obj\Debug\netcoreapp2.2\Faceclon.csproj.CoreCompileInputs.cache
+C:\Users\256hp\Documents\EXPROPIATE\Faceclon\obj\Debug\netcoreapp2.2\Faceclon.AssemblyInfoInputs.cache
+C:\Users\256hp\Documents\EXPROPIATE\Faceclon\obj\Debug\netcoreapp2.2\Faceclon.AssemblyInfo.cs
+C:\Users\256hp\Documents\EXPROPIATE\Faceclon\obj\Debug\netcoreapp2.2\Faceclon.dll
+C:\Users\256hp\Documents\EXPROPIATE\Faceclon\obj\Debug\netcoreapp2.2\Faceclon.pdb
