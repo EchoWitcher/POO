@@ -1,0 +1,11 @@
+C:\Users\256hp\Documents\EXPROPIATE\Actores\bin\Debug\netcoreapp2.2\Actores.deps.json
+C:\Users\256hp\Documents\EXPROPIATE\Actores\bin\Debug\netcoreapp2.2\Actores.runtimeconfig.json
+C:\Users\256hp\Documents\EXPROPIATE\Actores\bin\Debug\netcoreapp2.2\Actores.runtimeconfig.dev.json
+C:\Users\256hp\Documents\EXPROPIATE\Actores\bin\Debug\netcoreapp2.2\Actores.dll
+C:\Users\256hp\Documents\EXPROPIATE\Actores\bin\Debug\netcoreapp2.2\Actores.pdb
+C:\Users\256hp\Documents\EXPROPIATE\Actores\obj\Debug\netcoreapp2.2\Actores.csprojAssemblyReference.cache
+C:\Users\256hp\Documents\EXPROPIATE\Actores\obj\Debug\netcoreapp2.2\Actores.csproj.CoreCompileInputs.cache
+C:\Users\256hp\Documents\EXPROPIATE\Actores\obj\Debug\netcoreapp2.2\Actores.AssemblyInfoInputs.cache
+C:\Users\256hp\Documents\EXPROPIATE\Actores\obj\Debug\netcoreapp2.2\Actores.AssemblyInfo.cs
+C:\Users\256hp\Documents\EXPROPIATE\Actores\obj\Debug\netcoreapp2.2\Actores.dll
+C:\Users\256hp\Documents\EXPROPIATE\Actores\obj\Debug\netcoreapp2.2\Actores.pdb
